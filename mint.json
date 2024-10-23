@@ -75,11 +75,37 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "pet",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/pet/update-an-existing-pet",
+        "api-reference/pet/add-a-new-pet-to-the-store",
+        "api-reference/pet/finds-pets-by-status",
+        "api-reference/pet/finds-pets-by-tags",
+        "api-reference/pet/find-pet-by-id",
+        "api-reference/pet/updates-a-pet-in-the-store-with-form-data",
+        "api-reference/pet/deletes-a-pet",
+        "api-reference/pet/uploads-an-image"
+      ]
+    },
+    {
+      "group": "store",
+      "pages": [
+        "api-reference/store/returns-pet-inventories-by-status",
+        "api-reference/store/place-an-order-for-a-pet",
+        "api-reference/store/find-purchase-order-by-id",
+        "api-reference/store/delete-purchase-order-by-id"
+      ]
+    },
+    {
+      "group": "user",
+      "pages": [
+        "api-reference/user/create-user",
+        "api-reference/user/creates-list-of-users-with-given-input-array",
+        "api-reference/user/logs-user-into-the-system",
+        "api-reference/user/logs-out-current-logged-in-user-session",
+        "api-reference/user/get-user-by-user-name",
+        "api-reference/user/update-user",
+        "api-reference/user/delete-user"
       ]
     }
   ],
