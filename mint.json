@@ -69,12 +69,6 @@
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
       "group": "pet",
       "pages": [
         "api-reference/pet/update-an-existing-pet",
