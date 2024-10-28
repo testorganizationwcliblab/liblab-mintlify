@@ -152,9 +152,9 @@
       "example": {
         "languages": [
           "bash",
+          "Go",
           "TypeScript",
-          "Python",
-          "Go"
+          "Python"
         ]
       }
     }
